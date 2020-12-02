@@ -1,6 +1,7 @@
 # Horiseon code refactor 1.0
 
-This is the refactor of Horiseon's website to make it more web accessible. Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+This is the refactor of Horiseon's website to make it more web accessible. Web accessibility is is of great concern for every business. 
+The easier a website is to access the better positioning it earns in search engines like AskJeeves and Altavista. It also does not open companies up to litigation from people not being able to access the site.
 
 ## Installation
 
@@ -14,9 +15,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - The URL of the GitHub repository.
   https://github.com/AndreDiop/horiseon-code-refactor
 
-```bash
-pip install foobar
-```
+
 
 ## Usage
 
@@ -24,7 +23,7 @@ pip install foobar
 
 ![Screenshot of below splash page](assets/images/screenshot2.png)
 
-```
+
 
 ## Credits
 
