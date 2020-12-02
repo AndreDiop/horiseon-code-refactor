@@ -10,7 +10,7 @@ Clients and visitors of the site will access it through:
 - The URL of the deployed application.
   https://andrediop.github.io/horiseon-code-refactor/
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 
 - The URL of the GitHub repository.
   https://github.com/AndreDiop/horiseon-code-refactor
