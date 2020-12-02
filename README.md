@@ -94,8 +94,10 @@ This homework is graded based on the following criteria:
 You are required to submit the following for review:
 
 * The URL of the deployed application.
+https://andrediop.github.io/horiseon-code-refactor/
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+https://github.com/AndreDiop/horiseon-code-refactor
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
