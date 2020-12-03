@@ -1,7 +1,11 @@
-# Horiseon code refactor 1.0
+# Horiseon code refactor 2.0
 
 This is the refactor of Horiseon's website to make it more web accessible. Web accessibility is is of great concern for every business. 
-The easier a website is to access the better positioning it earns in search engines like AskJeeves and Altavista. It also does not open companies up to litigation from people not being able to access the site.
+The easier a website is to access the better positioning it earns in search engines like AskJeeves and Altavista. 
+There were many redundancies in the original css styling and through consolidating with the use of class selectors, I was able to remove several lines of repeating code.
+
+I also added alt text to the images to increase the web accessibility. 
+
 
 ## Installation
 
