@@ -19,9 +19,9 @@ Clients and visitors of the site will access it through:
 
 ## Usage
 
-![Screenshot of landing page of site](assets/images/screenshot1.png)
+![Screenshot of the site](assets/images/screenshot.png)
 
-![Screenshot of below splash page](assets/images/screenshot2.png)
+
 
 
 
